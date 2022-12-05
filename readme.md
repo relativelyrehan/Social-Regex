@@ -2,6 +2,8 @@
 
 ## Feel free to add more 🖊
 
+- Please follow the alphabetical order while adding more
+
 ```Javascript
   const amazon = /https?:\/\/(www\.)?amazon\.com\/[\w.-]*/;
   const flipkart = /https?:\/\/(www\.)?flipkart\.com\/[\w.-]*/;
@@ -10,6 +12,7 @@
   const notion = /https?:\/\/[\w.-]*\.notion\.so\/[\w.-]*/;
   const reddit = /https?:\/\/(www\.)?reddit\.com\/[\w.-]*/;
   const slack = /https?:\/\/[\w.-]*\.slack\.com\/[\w.-]*/;
+  const snapchat = /https?:\/\/(www\.)?snapchat\.com\/[\w.-]*/;
   const twitter = /https?:\/\/(www\.)?twitter\.com\/[\w.-]*/;
   const youtube = /^(https?:\/\/)?(www\.)?(youtube\.com|youtu\.?be)\/.+$/;
 ```
